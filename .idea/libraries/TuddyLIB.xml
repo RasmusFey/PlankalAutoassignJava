@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TuddyLIB">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TuddyLIB.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
