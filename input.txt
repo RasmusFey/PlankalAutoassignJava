@@ -1,0 +1,11 @@
+Ebene	Nr.R	Raumbeschreibung	Zone	Nutzungseinheit	Raumtyp	Raumart	lR [m]	bR [m]	hG [m]	AR [m²]	VR [m³]
+0,00	001	WC	001	001	WC	Abluftraum	1,78	2,39	2,95	4,25	11,69
+0,00	002	Küche	001	001	Küche	Abluftraum	2,88	3,39	2,95	9,76	26,84
+0,00	003	Bad	001	001	Bad	Abluftraum	3,67	4,82	2,95	17,67	48,60
+0,00	004	Wohnzimmer	001	002	Wohnzimmer	Zuluftraum	3,71	5,87	2,95	21,76	59,84
+0,00	005	Wohnzimmer	001	001	Wohnzimmer	Zuluftraum	3,00	8,24	2,95	24,72	67,97
+0,00	005	Flur	001	001	Flur	Überströmraum	6,65	4,61	2,95	30,66	84,30
+0,00	101	Schacht	001	001	WC	Abluftraum	0,32	1,83	2,95	0,59	1,63
+-1,00	101	Neuer Raum	001	001	Unbelüfteter Raum		7,46	12,19	2,95	90,86	249,86
+-1,00	102	inn	001	001	Unbelüfteter Raum		1,22	2,33	2,95	2,85	7,82
+-1,00	103	Neuer Raum	001	001	Unbelüfteter Raum		4,18	5,17	2,95	21,63	59,49
