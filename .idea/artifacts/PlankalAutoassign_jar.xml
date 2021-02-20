@@ -1,9 +1,10 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="PlankalAutoassign:jar">
+  <artifact type="jar" build-on-make="true" name="PlankalAutoassign:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/PlankalAutoassign_jar</output-path>
     <root id="archive" name="PlankalAutoassign.jar">
       <element id="module-output" name="PlankalAutoassign" />
       <element id="extracted-dir" path="$PROJECT_DIR$/TuddyLIB.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
